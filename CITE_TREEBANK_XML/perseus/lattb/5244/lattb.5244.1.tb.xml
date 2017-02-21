@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank xmlns:saxon="http://saxon.sf.net/"
+          xml:lang="lat"
+          format="wheelock22"
+          direction="ltr"
+          version="1.5">
+   <date>2017-02-05 19:44:41 +0000</date>
+   <comment class="gold">44641</comment>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://services2.perseids.org/llt/segtok</uri>
+  </annotator>
+   <annotator>
+      <short/>
+      <name/>
+      <address/>
+      <uri>http://github.com/latin-language-toolkit/arethusa</uri>
+  </annotator>
+   <annotator>
+      <short>RobertGorman</short>
+      <name>Robert Gorman</name>
+      <address>rgorman1@unl.edu</address>
+      <uri>http://data.perseus.org/sosol/users/RobertGorman</uri>
+  </annotator>
+   <annotator>
+      <short>MaxwellLunt</short>
+      <name>Maxwell Lunt</name>
+      <address>mlunt002@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/MaxwellLunt</uri>
+  </annotator>
+   <sentence id="1"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Sapientia" lemma="Sapientia" postag="n-s---fn-" relation="Sbj" head="7"/>
+      <word id="2" form="vēra" lemma="verus" postag="a-s---fn_" relation="Atr" head="1"/>
+      <word id="3" form="in" lemma="in" postag="r--------" relation="Prep" head="7"/>
+      <word id="4" form="hominibus" lemma="homo" postag="n-p---mb-" relation="ObPrep" head="3"/>
+      <word id="5" form="stultīs" lemma="stultus" postag="a-p---mb_" relation="Atr" head="4"/>
+      <word id="6" form="nōn" lemma="nōn" postag="d-------_" relation="Adv" head="7"/>
+      <word id="7" form="inveniētur" lemma="invenio" postag="v3spip---" relation="MnVb" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="2"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Librī" lemma="Liber" postag="n-p---mn-" relation="Sbj" head="7"/>
+      <word id="2" form="huius" lemma="hic" postag="p-s---ng-" relation="Atr" head="3"/>
+      <word id="3" form="generis" lemma="genus" postag="n-s---ng-" relation="Poss" head="1"/>
+      <word id="4" form="puerīs" lemma="puer" postag="n-p---md-" relation="IndObj" head="7"/>
+      <word id="5" form="ā" lemma="ā" postag="r--------" relation="Prep" head="7"/>
+      <word id="6" form="magistrō" lemma="magister" postag="n-s---mb-" relation="ObPrep" head="5"/>
+      <word id="7" form="dabantur" lemma="do" postag="v3piip---" relation="MnVb" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="3"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Quae" lemma="qui" postag="p-p---nn-" relation="Atr" head="2"/>
+      <word id="2" form="argūmenta" lemma="argumentum" postag="n-p---nn-" relation="Sbj" head="10"/>
+      <word id="3" form="certa" lemma="certus" postag="a-p---nn_" relation="Atr" head="2"/>
+      <word id="4" form="ā" lemma="ā" postag="r--------" relation="Prep" head="10"/>
+      <word id="5" form="iūdicibus" lemma="iūdicium" postag="n-p---nb-" relation="ObPrep" head="4"/>
+      <word id="6" form="contrā" lemma="contrā" postag="r--------" relation="Prep" head="10"/>
+      <word id="7" form="ista" lemma="iste" postag="p-p---na-" relation="Atr" head="8"/>
+      <word id="8" form="scelera" lemma="scelus" postag="n-p---na-" relation="ObPrep" head="6"/>
+      <word id="9" form="gravia" lemma="gravis" postag="a-p---na_" relation="Atr" head="8"/>
+      <word id="10" form="parāta" lemma="paro" postag="v-prppna_" relation="MnVb" head="0"/>
+      <word id="11" form="erant" lemma="sum" postag="v3piia---" relation="AuxV" head="10"/>
+      <word id="12" form="?" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="4"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Paucīs" lemma="Pauci" postag="a-p---fb_" relation="Atr" head="2"/>
+      <word id="2" form="hōrīs" lemma="hora" postag="n-p---fb-" relation="Time" head="10"/>
+      <word id="3" form="illa" lemma="ille" postag="p-p---nn-" relation="Atr" head="4"/>
+      <word id="4" form="flūmina" lemma="flumen" postag="n-p---nn-" relation="Sbj" head="10"/>
+      <word id="5" form="celeria" lemma="celer" postag="a-p---nn_" relation="Atr" head="4"/>
+      <word id="6" form="in" lemma="in" postag="r--------" relation="Prep" head="10"/>
+      <word id="7" form="mare" lemma="mare" postag="n-s---na-" relation="ObPrep" head="6"/>
+      <word id="8" form="ingēns" lemma="ingēns" postag="a-s---nn_" relation="Atr" head="7"/>
+      <word id="9" form="fluere" lemma="fluo" postag="v--pna---" relation="CmplCl" head="10"/>
+      <word id="10" form="coeperant" lemma="coepio" postag="v3plia---" relation="MnVb" head="0"/>
+      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="5"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Post" lemma="Post" postag="r--------" relation="Prep" head="8"/>
+      <word id="2" form="tempus" lemma="tempus" postag="n-s---na-" relation="ObPrep" head="1"/>
+      <word id="3" form="longum" lemma="longus" postag="a-s---na_" relation="Atr" head="2"/>
+      <word id="4" form="hōs" lemma="hic" postag="p-p---ma-" relation="Atr" head="5"/>
+      <word id="5" form="libellōs" lemma="libellus" postag="n-p---ma-" relation="DirObj" head="7"/>
+      <word id="6" form="difficilēs" lemma="difficilis" postag="a-p---ma_" relation="Atr" head="5"/>
+      <word id="7" form="legere" lemma="lego" postag="v--pna---" relation="CmplCl" head="8"/>
+      <word id="8" form="poteris" lemma="possum" postag="v2sfia---" relation="" head="0"/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="6"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Animus" lemma="Animus" postag="n-s---mn-" relation="Sbj" head="7"/>
+      <word id="2" form="eius" lemma="is" postag="p-s---mg-" relation="Poss" head="1"/>
+      <word id="3" form="cupiditāte" lemma="cupiditās" postag="n-s---fb-" relation="Mns" head="5"/>
+      <word id="4" form="frūctūs" lemma="frūctus" postag="n-s---mg-" relation="Poss" head="3"/>
+      <word id="5" form="tangī" lemma="tango" postag="v--pnp---" relation="CmplCl" head="7"/>
+      <word id="6" form="nōn" lemma="nōn" postag="d-------_" relation="Adv" head="7"/>
+      <word id="7" form="poterat" lemma="possum" postag="v3siia---" relation="MnVb" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="7"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Senem" lemma="Senex" postag="n-s---ma-" relation="DirObj" head="7"/>
+      <word id="2" form="cuius" lemma="qui" postag="p-s---mg-" relation="Poss" head="3"/>
+      <word id="3" form="familia" lemma="familia" postag="n-s---fn-" relation="Sbj" head="4"/>
+      <word id="4" form="servāta" lemma="servo" postag="v-srppfn_" relation="RelCl" head="1"/>
+      <word id="5" form="est" lemma="sum" postag="v3spia---" relation="AuxV" head="4"/>
+      <word id="6" form="numquam" lemma="numquam" postag="d-------_" relation="Adv" head="7"/>
+      <word id="7" form="vīdī" lemma="video" postag="v1sria---" relation="MnVb" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="8"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Multa" lemma="Multus" postag="a-p---nn_" relation="Sbj" head="4"/>
+      <word id="2" form="in" lemma="in" postag="r--------" relation="Prep" head="4"/>
+      <word id="3" form="mundō" lemma="mundus" postag="n-s---mb-" relation="ObPrep" head="2"/>
+      <word id="4" form="continentur" lemma="contineo" postag="v3ppip---" relation="MnVb" head="0"/>
+      <word id="5" form="ex" lemma="ex" postag="r--------" relation="Prep" head="9"/>
+      <word id="6" form="quibus" lemma="qui" postag="p-p---nb-" relation="ObPrep" head="5"/>
+      <word id="7" form="hominēs" lemma="homo" postag="n-p---mn-" relation="Sbj" head="10"/>
+      <word id="8" form="frūctum" lemma="frūctus" postag="n-s---ma-" relation="DirObj" head="9"/>
+      <word id="9" form="trahere" lemma="traho" postag="v--pna---" relation="CmplCl" head="10"/>
+      <word id="10" form="possunt" lemma="possum" postag="v3ppia---" relation="RelCl" head="1"/>
+      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="9"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Quis" lemma="Quis" postag="p-s---mn-" relation="Sbj" head="11"/>
+      <word id="2" form="ex" lemma="ex" postag="r--------" relation="Prep" head="11"/>
+      <word id="3" form="montibus" lemma="mons" postag="n-p---mb-" relation="ObPrep" head="2"/>
+      <word id="4" form="Graeciae" lemma="Graecia" postag="n-s---fg-" relation="Poss" head="3"/>
+      <word id="5" form="in" lemma="in" postag="r--------" relation="Prep" head="11"/>
+      <word id="6" form="fīnēs" lemma="fīnis" postag="n-p---ma-" relation="ObPrep" head="5"/>
+      <word id="7" form="Troiae" lemma="Troia" postag="n-s---fg-" relation="Poss" head="6"/>
+      <word id="8" form="contrā" lemma="contrā" postag="r--------" relation="Prep" head="11"/>
+      <word id="9" form="hostēs" lemma="hostis" postag="n-p---ma-" relation="ObPrep" head="8"/>
+      <word id="10" form="asperōs" lemma="asper" postag="a-p---ma_" relation="Atr" head="9"/>
+      <word id="11" form="mittētur" lemma="mitto" postag="v3sfip---" relation="MnVb" head="0"/>
+      <word id="12" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="10"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Virtūs" lemma="Virtūs" postag="n-s---fn-" relation="Sbj" head="5"/>
+      <word id="2" form="multā" lemma="multus" postag="a-s---fb_" relation="Atr" head="3"/>
+      <word id="3" form="pecūniā" lemma="pecūnia" postag="n-s---fb-" relation="Mns" head="5"/>
+      <word id="4" form="nōn" lemma="nōn" postag="d-------_" relation="Adv" head="5"/>
+      <word id="5" form="parātur" lemma="paro" postag="v3spip---" relation="MnVb" head="0"/>
+      <word id="6" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="11"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Ōdī" lemma="Ōdī" postag="v1spia---" relation="MnVb" head="0"/>
+      <word id="2" form="servitūtem" lemma="servitūs" postag="n-s---fa-" relation="DirObj" head="1"/>
+      <word id="3" form="quae" lemma="qui" postag="p-s---fn-" relation="Sbj" head="9"/>
+      <word id="4" form="hominēs" lemma="homo" postag="n-p---ma-" relation="DirObj" head="9"/>
+      <word id="5" form="ā" lemma="ā" postag="r--------" relation="Prep" head="9"/>
+      <word id="6" form="frūctibus" lemma="frūctibus" postag="n-p---mb-" relation="ObPrep" head="5"/>
+      <word id="7" form="dulcibus" lemma="dulcis" postag="a-p---mb_" relation="Atr" head="6"/>
+      <word id="8" form="lībertātis" lemma="lībertās" postag="n-s---mg-" relation="Poss" head="6"/>
+      <word id="9" form="prohibet" lemma="prohibeo" postag="v3spia---" relation="RelCl" head="2"/>
+      <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="12"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Eō" lemma="is" postag="p-s---mb-" relation="Atr" head="2"/>
+      <word id="2" form="diē" lemma="diēs" postag="n-s---mb-" relation="Time" head="7"/>
+      <word id="3" form="vīcīnī" lemma="vīcīnus" postag="n-p---mn-" relation="Sbj" head="7"/>
+      <word id="4" form="eius" lemma="is" postag="p-s---mg-" relation="Poss" head="3"/>
+      <word id="5" form="cum" lemma="cum" postag="r--------" relation="Prep" head="7"/>
+      <word id="6" form="cūrā" lemma="cūra" postag="n-s---fb-" relation="ObPrep" head="5"/>
+      <word id="7" form="labōrāvērunt" lemma="labōro" postag="v3pria---" relation="MnVb" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="13"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Paucīs" lemma="Paucī" postag="a-p---md_" relation="Atr" head="2"/>
+      <word id="2" form="diēbus" lemma="diēs" postag="n-p---mb-" relation="Time" head="8"/>
+      <word id="3" form="Cicerō" lemma="Cicerō" postag="n-s---mn-" relation="Sbj" head="8"/>
+      <word id="4" form="rem" lemma="res" postag="n-s---fa-" relation="DirObj" head="8"/>
+      <word id="5" form="pūblicam" lemma="pūblicus" postag="a-s---fa_" relation="Atr" head="4"/>
+      <word id="6" form="ē" lemma="ē" postag="r--------" relation="Prep" head="8"/>
+      <word id="7" form="perīculō" lemma="perīculum" postag="n-s---nb-" relation="ObPrep" head="6"/>
+      <word id="8" form="ēripiet" lemma="ēripio" postag="v3sfia---" relation="MnVb" head="0"/>
+      <word id="9" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="14"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Senātus" lemma="Senātus" postag="n-s---mn-" relation="Sbj" head="10"/>
+      <word id="2" form="cīvēs" lemma="cīvis" postag="n-p---ma-" relation="DirObj" head="10"/>
+      <word id="3" form="nostrōs" lemma="noster" postag="a-p---ma_" relation="Atr" head="2"/>
+      <word id="4" form="ā" lemma="ā" postag="r--------" relation="Prep" head="10"/>
+      <word id="5" form="metū" lemma="metus" postag="n-s---mb-" relation="ObPrep" head="4"/>
+      <word id="6" form="illōrum" lemma="ille" postag="p-p---mg-" relation="Atr" head="7"/>
+      <word id="7" form="coniūrātōrum" lemma="coniūrāti" postag="n-p---mg-" relation="Poss" head="5"/>
+      <word id="8" form="heri" lemma="heri" postag="d-------_" relation="Adv" head="10"/>
+      <word id="9" form="nōn" lemma="nōn" postag="d-------_" relation="Adv" head="10"/>
+      <word id="10" form="dēfendit" lemma="dēfendo" postag="v3spia---" relation="MnVb" head="0"/>
+      <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="15"
+             document_id="https://raw.githubusercontent.com/rgorman/treebank_templates/master/Latin_102_Spring-2017/Latin_102_HW1.xml"
+             subdoc=""
+             span="">
+      <word id="1" form="Aquae" lemma="Aqua" postag="n-p---fn-" relation="Sbj" head="8"/>
+      <word id="2" form="celerēs" lemma="celer" postag="a-p---fn_" relation="Atr" head="1"/>
+      <word id="3" form="flūminum" lemma="flūmen" postag="a-p---ng_" relation="Poss" head="1"/>
+      <word id="4" form="hōrum" lemma="hic" postag="p-p---ng-" relation="Atr" head="3"/>
+      <word id="5" form="cum" lemma="cum" postag="r--------" relation="Prep" head="8"/>
+      <word id="6" form="marī" lemma="mare" postag="n-s---nb-" relation="ObPrep" head="5"/>
+      <word id="7" form="ingentī" lemma="ingens" postag="a-s---nb_" relation="Atr" head="6"/>
+      <word id="8" form="mixtae" lemma="misceo" postag="v-prppfn_" relation="MnVb" head="0"/>
+      <word id="9" form="sunt" lemma="sum" postag="v3ppia---" relation="AuxV" head="8"/>
+      <word id="10" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
